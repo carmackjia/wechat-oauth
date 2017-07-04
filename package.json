@@ -15,7 +15,7 @@
     "wechat"
   ],
   "dependencies": {
-    "urllib": "2.7.0"
+    "request": "^2.81.0"
   },
   "devDependencies": {
     "supertest": "*",
@@ -33,5 +33,7 @@
   "directories": {
     "test": "test"
   },
-  "files": ["lib"]
+  "files": [
+    "lib"
+  ]
 }
